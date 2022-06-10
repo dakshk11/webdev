@@ -1,0 +1,42 @@
+.top_container{
+    background-color: #9BA3EB;
+    margin: 0;
+    text-align: center;
+}
+body{
+    margin: 0;
+    font-family: 'Comic Neue', cursive;
+}
+h1{
+    width:8%;
+    margin: 0 auto 0 auto;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 2.5rem;
+    color: #DBDFFD;
+    line-height: 2;
+}
+.bcloud{
+    position:absolute
+}
+.tcloud{
+    position:relative;
+    left: 300px;
+}
+.son{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+div{
+    text-align: center;
+}
+.child{
+    font-size: 1.5rem;
+}
+h2{
+    font-size: 1.7rem;
+    color: #94B49F;
+}
+strong{
+    color: #DF7861;
+}
