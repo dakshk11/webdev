@@ -85,3 +85,19 @@ strong{
     background-image: linear-gradient(to bottom, #3ca619, #d4edca);
     text-decoration: none;
   }
+  .bottom-container{
+      background-color: darkturquoise;
+      margin: 0;
+  }
+  .p{
+      margin: 0;
+  }
+  hr{
+    border-top-color: #FFE69A;
+    border-top-style: dotted;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-top-width: 4px;
+    width: 50%;
+    } 
