@@ -40,3 +40,48 @@ h2{
 strong{
     color: #DF7861;
 }
+.skill-row{
+    width: 50%;
+    margin: 115px auto 115px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.coding{
+    width: 30%;
+    float: left;
+    margin-right: 15px;
+}
+.video_games{
+    width: 30%;
+    float: right;
+    margin-left: 20px;
+}
+.vg{
+    clear: right;
+}
+.btn {
+    background: #1c5880;
+    background-image: -webkit-linear-gradient(top, #1c5880, #27e6e6);
+    background-image: -moz-linear-gradient(top, #1c5880, #27e6e6);
+    background-image: -ms-linear-gradient(top, #1c5880, #27e6e6);
+    background-image: -o-linear-gradient(top, #1c5880, #27e6e6);
+    background-image: linear-gradient(to bottom, #1c5880, #27e6e6);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3ca619;
+    background-image: -webkit-linear-gradient(top, #3ca619, #d4edca);
+    background-image: -moz-linear-gradient(top, #3ca619, #d4edca);
+    background-image: -ms-linear-gradient(top, #3ca619, #d4edca);
+    background-image: -o-linear-gradient(top, #3ca619, #d4edca);
+    background-image: linear-gradient(to bottom, #3ca619, #d4edca);
+    text-decoration: none;
+  }
